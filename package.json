@@ -4,7 +4,7 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git@github.com:tryretool/react-retool.git"
+    "url": "git@github.com:tmb/react-retool.git"
   },
   "keywords": [
     "react",
