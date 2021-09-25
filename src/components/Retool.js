@@ -124,6 +124,7 @@ class Retool extends React.Component {
                     this.iframe = e
                 }}
                 title="retool"
+                allowFullscreen="true"
             ></iframe>
         )
     }
